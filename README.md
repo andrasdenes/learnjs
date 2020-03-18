@@ -1,2 +1,4 @@
 # learnjs
-A js project, so that I can learn it in my (not so) free time
+A js project, so that I can learn it in my free time.
+
+Using REACT + NodeJS
