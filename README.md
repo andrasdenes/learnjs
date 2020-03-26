@@ -1,4 +1,4 @@
-# learnjs
+# learnjs - React
 
 A React project for my free time.
 
