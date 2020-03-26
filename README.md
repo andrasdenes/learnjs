@@ -1,4 +1,5 @@
 # learnjs
-A js project, so that I can learn it in my free time.
 
-Using REACT + NodeJS
+A React project for my free time.
+
+This repository contains the tutorial material (re-)created by me, based on Mosh's React tutorial <br> available at: https://www.youtube.com/watch?v=Ke90Tje7VS0
